@@ -1,0 +1,22 @@
+SMAP
+allproponsale_jsp.java
+JSP
+*S JSP
+*F
++ 0 allproponsale.jsp
+allproponsale.jsp
++ 1 footer.html
+footer.html
+*L
+5,96:54
+101,55:151
+155,2:206
+157,22:208,3
+179,2:274
+182,7:278
+188,5:285
+193,5:291
+197,3:296
+1#1,20:299
+199#0,4:318
+*E

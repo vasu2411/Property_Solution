@@ -1,0 +1,14 @@
+SMAP
+howwework_jsp.java
+JSP
+*S JSP
+*F
++ 0 howwework.jsp
+howwework.jsp
++ 1 footer.html
+footer.html
+*L
+1,78:49
+1#1,20:127
+78#0,5:146
+*E

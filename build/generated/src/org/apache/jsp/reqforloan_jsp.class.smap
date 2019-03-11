@@ -1,0 +1,22 @@
+SMAP
+reqforloan_jsp.java
+JSP
+*S JSP
+*F
++ 0 reqforloan.jsp
+reqforloan.jsp
++ 1 footer.html
+footer.html
+*L
+5,80:54
+85,37:135
+121,2:172
+123,6:174,3
+129,2:192
+132,7:196
+138,5:203
+143,5:209
+147,3:214
+1#1,20:217
+149#0,4:236
+*E

@@ -1,0 +1,14 @@
+SMAP
+rent_jsp.java
+JSP
+*S JSP
+*F
++ 0 rent.jsp
+rent.jsp
++ 1 footer.html
+footer.html
+*L
+1,111:49
+1#1,20:160
+111#0,5:179
+*E

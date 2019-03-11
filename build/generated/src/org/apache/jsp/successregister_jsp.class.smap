@@ -1,0 +1,14 @@
+SMAP
+successregister_jsp.java
+JSP
+*S JSP
+*F
++ 0 successregister.jsp
+successregister.jsp
++ 1 footer.html
+footer.html
+*L
+5,21:49
+1#1,20:70
+25#0,4:89
+*E
